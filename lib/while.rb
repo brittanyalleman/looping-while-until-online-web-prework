@@ -3,7 +3,7 @@ def using_while
 
 	counter = 6
   while counter <10
-    puts "the current counter is >6 && <10"
+    puts "Wingardium Leviosa"
     counter += 1
   end
 end
